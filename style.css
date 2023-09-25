@@ -43,3 +43,9 @@ h1{
     margin-left: 47%;
     color: teal;
 }
+
+@media (max-width:375px){
+    h1{
+        font-size: 30px;
+    }
+}
